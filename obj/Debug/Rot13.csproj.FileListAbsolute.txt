@@ -1,0 +1,7 @@
+C:\Users\elisp\source\repos\Rot13\Rot13\bin\Debug\Rot13.exe.config
+C:\Users\elisp\source\repos\Rot13\Rot13\bin\Debug\Rot13.exe
+C:\Users\elisp\source\repos\Rot13\Rot13\bin\Debug\Rot13.pdb
+C:\Users\elisp\source\repos\Rot13\Rot13\obj\Debug\Rot13.csprojAssemblyReference.cache
+C:\Users\elisp\source\repos\Rot13\Rot13\obj\Debug\Rot13.csproj.CoreCompileInputs.cache
+C:\Users\elisp\source\repos\Rot13\Rot13\obj\Debug\Rot13.exe
+C:\Users\elisp\source\repos\Rot13\Rot13\obj\Debug\Rot13.pdb
